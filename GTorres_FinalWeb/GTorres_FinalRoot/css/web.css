@@ -1,0 +1,127 @@
+html {
+    
+        background-image: url(../images/bg.png);
+        background-repeat: repeat;
+}
+
+body {
+    
+        width:960px;
+    
+        padding:50px;
+    
+        margin-top: 50px;
+    
+        margin-left: 100px;
+    
+        margin-right: 100px;
+    
+
+    
+        text-align: center;
+        
+        border: 5px solid #fcc399;
+    
+        border-style: dotted;
+    
+        border-radius: 30px;
+    
+        background-color: floralwhite
+        
+}
+
+a {
+    
+        font-size: 12pt;
+    
+        color: #e69e2b;
+    
+        text-decoration: none;
+    
+        font-family: 'Unica One', cursive;
+    
+    
+}
+
+
+
+p {
+    
+        font-size: 12pt;
+    
+        line-height: 10pt;
+    
+}
+
+h1 {    
+        font-family: 'Unica One', cursive;
+    
+        color: #d16b2b;
+    
+}
+
+h2 {    
+        font-size: 12pt;
+    
+        font-kerning: auto;
+    
+        font-family: 'Forum', serif;
+    
+        font-size; 12pt;
+    
+        font-style: normal;
+    
+        color: #e69e2b;
+}
+
+div {
+        display: inline-block;
+    
+        width: 250px;
+    
+        height: 200px;
+    
+        padding: 10px;
+    
+        border: 3px dotted #fcc399;
+    
+        vertical-align: middle;
+    
+        border-radius: 10px;
+    
+      }
+
+
+a {
+    text-decoration: none;
+    
+    display: inline-block;
+    
+    padding: 10px 16px;
+}
+
+
+
+a:hover {
+            background-color: #ffeeb7;
+    
+            color: #ff8c82;
+            
+            border-radius: 50%;
+}
+
+.previous {
+            background-color: burlywood;
+    
+            color: white;
+}
+
+.next {
+            background-color: #ff8c82;
+    
+            color: white;   
+}
+
+.round {
+            border-radius: 50%;
+}
